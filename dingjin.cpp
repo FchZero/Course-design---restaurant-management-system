@@ -1,0 +1,27 @@
+// dingjin.cpp: implementation of the dingjin class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "restaurant.h"
+#include "dingjin.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+dingjin::dingjin()
+{
+
+}
+
+dingjin::~dingjin()
+{
+
+}

@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: restaurant - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Elmer\AppData\Local\Temp\RSP7809.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/restaurant.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\学习\计算机\大二上面向对象\课设\2019.11.26\2019.11.26\searchdlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\Elmer\AppData\Local\Temp\RSP7809.tmp" 
+Creating temporary file "C:\Users\Elmer\AppData\Local\Temp\RSP7819.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/restaurant.pdb" /debug /machine:I386 /out:"Debug/restaurant.exe" /pdbtype:sept 
+".\Debug\APPMODUL.OBJ"
+".\Debug\CP.obj"
+".\Debug\CP1.obj"
+".\Debug\customer.obj"
+".\Debug\jiacai.obj"
+".\Debug\jiucan.obj"
+".\Debug\login.obj"
+".\Debug\order.obj"
+".\Debug\pay.obj"
+".\Debug\price.obj"
+".\Debug\restaurant.obj"
+".\Debug\restaurantDlg.obj"
+".\Debug\searchdlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\table.obj"
+".\Debug\restaurant.res"
+]
+Creating command line "link.exe @C:\Users\Elmer\AppData\Local\Temp\RSP7819.tmp"
+<h3>Output Window</h3>
+Compiling...
+searchdlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+restaurant.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

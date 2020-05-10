@@ -1,0 +1,27 @@
+// cmenu.cpp: implementation of the cmenu class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "restaurant.h"
+#include "cmenu.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+cmenu::cmenu()
+{
+
+}
+
+cmenu::~cmenu()
+{
+
+}
